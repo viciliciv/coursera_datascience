@@ -1,3 +1,3 @@
 ## Coursera - R Programming
-Week 2 programming work
-specdata
+### Week 2 programming work
+
